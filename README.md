@@ -36,8 +36,10 @@ open color_changer.html
 
 # Digital Clock
 
-![Digital Clock](Digital_clock.PNG)
+![Digital Clock](digital_clock.PNG)
+
 ## Description
+
 A digital clock that displays the current time with hours, minutes, and seconds. Built using HTML, CSS, and Javascript.
 
 ## Features
